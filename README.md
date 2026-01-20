@@ -33,7 +33,7 @@ You will need an API key from [OpenWeatherMap](https://openweathermap.org/api).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Weather-Where.git
+   git clone https://github.com/nived-vijay/Weather-Where.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -43,7 +43,7 @@ You will need an API key from [OpenWeatherMap](https://openweathermap.org/api).
    ```javascript
    const API_KEY = 'YOUR_API_KEY_HERE';
    ```
-4. Open `index.html` in your favorite browser to launch the app!
+4. Open `index.html` in your browser to launch the app!
 
 ## 📜 License
 
