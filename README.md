@@ -3,6 +3,7 @@
 **WeatherWhere** is a sleek, modern weather application designed with a focus on minimalist aesthetics and precise real-time data. Built with a premium glassmorphism UI, it provides a clean and immersive experience for checking weather conditions across the globe.
 
 *Experience local weather updates with stunning minimalist design.*
+
 Project demo available on [WeatherWhere](https://weatherwhere.vercel.app/).
 
 ## ✨ Features
