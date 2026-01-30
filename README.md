@@ -1,4 +1,4 @@
-# 🌦️ WeatherWhere - Precise Forecasts & Minimalist Aesthetics
+# 🌦️ WeatherWhere - Precise Forecasts & Minimal Design
 
 **WeatherWhere** is a sleek, modern weather application designed with a focus on minimalist aesthetics and precise real-time data. Built with a premium glassmorphism UI, it provides a clean and immersive experience for checking weather conditions across the globe.
 
