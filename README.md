@@ -19,11 +19,11 @@ Project demo available on [WeatherWhere](https://weatherwhere.vercel.app/).
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic structure for accessibility and SEO.
-- **Vanilla CSS3**: Custom modern styling with Glassmorphism, CSS Variables, and Flex/Grid layouts.
-- **JavaScript (ES6+)**: Fetch API for asynchronous weather data retrieval and DOM manipulation.
+- **CSS**: Custom modern styling with Glassmorphism, CSS Variables, and Flex/Grid layouts.
+- **JavaScript**: Fetch API for asynchronous weather data retrieval and DOM manipulation.
 - **OpenWeatherMap API**: Reliable source for global weather forecasts.
 - **FontAwesome**: High-quality icons for weather details and UI elements.
-- **Google Fonts (Outfit)**: Premium typography for a modern look.
+- **Google Fonts**: Premium typography for a modern look.
 
 ## 🚀 Getting Started
 
